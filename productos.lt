@@ -6,6 +6,16 @@ whatsapp = 573044863455
 nequi = 3000000000
 orden = arriba
 
+[p9]
+nombre = latrode
+categoria = Camisetas
+para = unisex
+precio = 20000
+descripcion = ropa
+tallas = XS, S, M, L, XL
+colores = Negro:#fffff
+foto = p9-mvyueyvg.webp
+
 [p8]
 nombre = Termo Gym 1L
 categoria = Accesorios
