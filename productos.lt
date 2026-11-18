@@ -3,5 +3,15 @@
 
 [tienda]
 whatsapp = 573044863455
-nequi = 3044863455
+nequi = 3000000000
 orden = arriba
+
+[p1]
+nombre = latrode
+categoria = Camisetas
+para = masculino
+precio = 20000
+descripcion = camisa de lana.
+tallas = XS, S, M, L, XL
+colores = Negro:#111111
+foto = a9e7ad07e19e6c5d.webp
