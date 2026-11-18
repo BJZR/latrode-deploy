@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://bjzr.github.io/latrode-deploy/sitemap.xml
+Sitemap: https://bjzr.github.io/latrode/sitemap.xml
