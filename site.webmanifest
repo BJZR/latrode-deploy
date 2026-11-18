@@ -1,0 +1,14 @@
+{
+  "name": "Latrode",
+  "short_name": "Latrode",
+  "icons": [
+    {
+      "src": "assets/latrode-favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a",
+  "display": "standalone"
+}
