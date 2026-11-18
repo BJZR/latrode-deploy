@@ -3,7 +3,7 @@
   "short_name": "Latrode",
   "icons": [
     {
-      "src": "assets/latrode-favicon.svg",
+      "src": "latrode-favicon.svg",
       "type": "image/svg+xml",
       "sizes": "any"
     }
