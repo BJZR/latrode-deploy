@@ -1,1 +1,0 @@
-$("#ct").onclick = openCart;

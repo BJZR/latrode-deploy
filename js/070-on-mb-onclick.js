@@ -1,1 +1,0 @@
-$("#mb").onclick = () => mo(true);

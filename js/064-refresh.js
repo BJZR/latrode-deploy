@@ -1,4 +1,0 @@
-function refresh() {
-  renderChips();
-  renderGrid();
-}
